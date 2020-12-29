@@ -1,0 +1,6 @@
+start
+read item-name, item-id, quantity, price;
+print Delivery Time;
+print delivery-fee;
+print total price;
+end program
